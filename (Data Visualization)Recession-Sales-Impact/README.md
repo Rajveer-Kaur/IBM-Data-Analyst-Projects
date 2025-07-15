@@ -88,8 +88,12 @@ The dataset used here is **synthetic** (artificially generated) for educational 
 ## 📁 Repository Structure
 
 recession-sales-impact/
-│
+
+
 ├── recession_auto_sales_analysis.ipynb # Jupyter notebook with static visualizations
+
 ├── dashboard_app.py # Dash application (interactive dashboard)
+
 ├── images/ # Screenshots of charts and dashboards
+
 └── README.md # Project overview and documentation
