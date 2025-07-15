@@ -82,8 +82,8 @@ We combine web-scraped and API-extracted data to analyze company revenue and vis
 
 ## 📎 Sample Output
 
-<img src="screenshots/tesla_stock_plot.png" alt="Tesla Stock Plot" width="600"/>
-<img src="screenshots/gamestop_revenue_plot.png" alt="GameStop Revenue Plot" width="600"/>
+<img src="screenshots/Tesla_Stock_Graph.png" alt="Tesla Stock Plot" width="600"/>
+<img src="screenshots/GamePlot_Stock_Graph.png" alt="GameStop Revenue Plot" width="600"/>
 
 ---
 
