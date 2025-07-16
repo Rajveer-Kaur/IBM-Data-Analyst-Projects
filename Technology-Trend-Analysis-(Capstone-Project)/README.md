@@ -24,6 +24,39 @@ As an Associate Data Analyst at a global IT consulting firm, the goal is to prov
 
 ---
 
+## **📂 Project Workflow**  
+
+### **1️⃣ Data Collection**  
+📌 Gather data from:  
+🔹 APIs & Web Scraping  
+🔹 Stack Overflow Developer Survey  
+🔹 Job postings & Training portals  
+
+### **2️⃣ Data Wrangling**  
+🔹 Handle missing values & duplicates  
+🔹 Normalize & clean data  
+
+### **3️⃣ Exploratory Data Analysis (EDA)**  
+🔹 Analyze data distribution  
+🔹 Identify outliers & correlations  
+
+### **4️⃣ Data Visualization**  
+📊 Create charts to represent insights:  
+🔹 Histograms, Scatter Plots, Pie Charts, Bar Graphs  
+
+### **5️⃣ Dashboard Creation**  
+🖥️ Build interactive dashboards using:  
+🔹 **Current Technology Usage Dashboard**  
+🔹 **Future Technology Trends Dashboard**  
+🔹 **Demographics Dashboard**  
+
+### **6️⃣ Presentation & Final Report**  
+📑 Deliver a structured **PowerPoint report** highlighting key insights.
+
+
+---
+
+
 ## 📊 Key Dashboards
 
 1. **Current Technology Usage Dashboard**
