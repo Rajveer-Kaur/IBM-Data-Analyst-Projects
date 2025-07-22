@@ -28,7 +28,7 @@ This repository highlights my journey through data cleaning, visualization, SQL 
 | 4 | [Chicago Community SQL Analysis](./Chicago-Data-Analysis-with-SQL/) | Queried Chicago datasets to uncover insights on crime, hardship, and education. | SQLite, SQL |
 | 5 | [House Price Prediction (Regression)](./House-Price-Prediction/) | Built a regression model to predict housing prices using King County housing data. | Python, Pandas, Scikit-Learn |
 | 6 | [Recession Impact on Auto Sales](./Recession-Sales-Impact-data-visualization/) | Explored how past recessions impacted car sales using Python visualizations and Dash dashboards. | Python, Matplotlib, Seaborn, Dash |
-| 7 | [Capstone: Emerging Tech Trends Analysis](./Technology-Trend-Analysis-Capstone)/) | Analyzed Stack Overflow survey data to uncover emerging tech trends; built dashboards and final presentation. | SQL, Python, Looker Studio, PowerPoint |
+| 7 | [Capstone: Emerging Tech Trends Analysis](./Technology-Trend-Analysis-Capstone/) | Analyzed Stack Overflow survey data to uncover emerging tech trends; built dashboards and final presentation. | SQL, Python, Looker Studio, PowerPoint |
 
 ---
 
