@@ -24,11 +24,11 @@ This repository highlights my journey through data cleaning, visualization, SQL 
 |--|------------------|-------------|-------------|
 | 1 | [Government Fleet Inventory Analysis](./Fleet-Inventory-Data-Analysis-with-Excel/) | Cleaned and analyzed a local government’s vehicle inventory using Excel functions and pivot tables. | Excel |
 | 2 | [Dealer Sales & Profit Dashboard](./Car-Sales-Dashboard-Project/) | Analyzed car sales & profits for a dealership; built dashboards using Excel, Cognos & Looker Studio. | Excel, IBM Cognos, Looker Studio |
-| 3 | [Stock Data Analysis using Python](./(Python-Project)Stock-Market-Data-Extraction-&-Visualization/) | Scraped financial data, analyzed stock trends of Tesla and GameStop using Python libraries. | Python, BeautifulSoup, yFinance, Matplotlib |
+| 3 | [Stock Data Analysis using Python](./Stock-Market-Data-Extraction-and-Visualization-python-project/) | Scraped financial data, analyzed stock trends of Tesla and GameStop using Python libraries. | Python, BeautifulSoup, yFinance, Matplotlib |
 | 4 | [Chicago Community SQL Analysis](./Chicago-Data-Analysis-with-SQL/) | Queried Chicago datasets to uncover insights on crime, hardship, and education. | SQLite, SQL |
-| 5 | [House Price Prediction (Regression)](./House_Price_Prediction/) | Built a regression model to predict housing prices using King County housing data. | Python, Pandas, Scikit-Learn |
-| 6 | [Recession Impact on Auto Sales](./(Data_Visualization)Recession-Sales-Impact/) | Explored how past recessions impacted car sales using Python visualizations and Dash dashboards. | Python, Matplotlib, Seaborn, Dash |
-| 7 | [Capstone: Emerging Tech Trends Analysis](./Technology-Trend-Analysis-(Capstone-Project)/) | Analyzed Stack Overflow survey data to uncover emerging tech trends; built dashboards and final presentation. | SQL, Python, Looker Studio, PowerPoint |
+| 5 | [House Price Prediction (Regression)](./House-Price-Prediction/) | Built a regression model to predict housing prices using King County housing data. | Python, Pandas, Scikit-Learn |
+| 6 | [Recession Impact on Auto Sales](./Recession-Sales-Impact-data-visualization/) | Explored how past recessions impacted car sales using Python visualizations and Dash dashboards. | Python, Matplotlib, Seaborn, Dash |
+| 7 | [Capstone: Emerging Tech Trends Analysis](./Technology-Trend-Analysis-Capstone)/) | Analyzed Stack Overflow survey data to uncover emerging tech trends; built dashboards and final presentation. | SQL, Python, Looker Studio, PowerPoint |
 
 ---
 
