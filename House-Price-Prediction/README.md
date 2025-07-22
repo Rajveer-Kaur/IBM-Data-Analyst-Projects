@@ -79,7 +79,11 @@ You are a **Data Analyst** working at a **Real Estate Investment Trust** that pl
 ## 📂 Repository Structure
 
 house-price-prediction-king-county/
+
 │
+
 ├── House_Sales_in_King_Count_USA_final.ipynb # Main notebook
+
 ├── README.md # Project description
+
 └── images/ # Charts
